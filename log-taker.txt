@@ -2204,3 +2204,12 @@
 3/24/2025 | 8:23:11 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
 3/24/2025 | 8:23:11 PM | INFO | Trying to activate mining on-chain for wallet: 0x59960893F377Dbd50d0adF387B224D76F8bF2F05 
 3/24/2025 | 8:23:21 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x86d1e0075dab564c142e3a60981cbec2ef0656c4a618a14ec9849cfbf08ec4cd 
+3/25/2025 | 1:51:11 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/25/2025 | 1:51:11 AM | INFO | Start process for wallet 0x59960893F377Dbd50d0adF387B224D76F8bF2F05 
+3/25/2025 | 1:51:12 AM | INFO | Trying To Login for wallet: 0x59960893F377Dbd50d0adF387B224D76F8bF2F05 
+3/25/2025 | 1:51:13 AM | INFO | Login successful... 
+3/25/2025 | 1:51:13 AM | INFO | Trying to check user info... 
+3/25/2025 | 1:51:14 AM | INFO | User ID: 28252389 | Twitter: @mylisnaa | Total Points: 888000 
+3/25/2025 | 1:51:14 AM | INFO | Trying to check user miner status... 
+3/25/2025 | 1:51:15 AM | INFO | Last mining time: 3/24/2025, 8:23:18 PM
+3/25/2025 | 1:51:15 AM | WARN | Mining already started, next mining time is: 3/25/2025, 8:23:18 PM
