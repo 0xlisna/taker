@@ -6138,3 +6138,15 @@
 6/1/2025 | 4:28:40 PM | INFO | Trying to check user miner status... 
 6/1/2025 | 4:28:41 PM | INFO | Last mining time: 5/31/2025, 8:24:33 PM
 6/1/2025 | 4:28:41 PM | WARN | Mining already started, next mining time is: 6/1/2025, 8:24:33 PM
+6/1/2025 | 8:25:41 PM | WARN |   === Sever is down bot might be slow - Just be patient ===
+6/1/2025 | 8:25:41 PM | INFO | Start process for wallet 0x59960893F377Dbd50d0adF387B224D76F8bF2F05 
+6/1/2025 | 8:25:41 PM | INFO | Trying To Login for wallet: 0x59960893F377Dbd50d0adF387B224D76F8bF2F05 
+6/1/2025 | 8:25:42 PM | INFO | Login successful... 
+6/1/2025 | 8:25:42 PM | INFO | Trying to check user info... 
+6/1/2025 | 8:25:43 PM | INFO | User ID: 28252389 | Twitter: @mylisnaa | Total Points: 2328000 
+6/1/2025 | 8:25:43 PM | INFO | Trying to check user miner status... 
+6/1/2025 | 8:25:44 PM | INFO | Last mining time: 5/31/2025, 8:24:33 PM
+6/1/2025 | 8:25:44 PM | INFO | Trying to start Mining for wallet: 0x59960893F377Dbd50d0adF387B224D76F8bF2F05 
+6/1/2025 | 8:25:45 PM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+6/1/2025 | 8:25:45 PM | INFO | Trying to activate mining on-chain for wallet: 0x59960893F377Dbd50d0adF387B224D76F8bF2F05 
+6/1/2025 | 8:25:56 PM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xa45e18a296754929866670ea494f2cee6aec1d39a489dd6451fd5b1156afdd61 
